@@ -33,7 +33,6 @@ echo "       QDPMAXEV(ENABLED) - " >> tmp_mqs_script.mqsc
 echo "       QDPHIEV(ENABLED) - " >> tmp_mqs_script.mqsc
 echo "       QDPLOEV(DISABLED) - " >> tmp_mqs_script.mqsc
 echo "       DEFBIND(NOTFIXED) - " >> tmp_mqs_script.mqsc
-echo "       CLUSTER() - " >> tmp_mqs_script.mqsc
 echo "       REPLACE" >> tmp_mqs_script.mqsc
 echo " " >> tmp_mqs_script.mqsc
 echo " " >> tmp_mqs_script.mqsc
